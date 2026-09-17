@@ -1,0 +1,7 @@
+# Generated on 2026-11-10
+static/*.html linguist-vendored
+node_modules/* linguist-vendored
+*.json linguist-detectable=false
+**/*.py linguist-detectable
+
+static/** linguist-vendored
